@@ -30,6 +30,7 @@ update details🚀:
 1. When `pause` button is pushed, the text of the button will be changed into `resume` and vise-versa. 
 2. The `auto-saving` capability is added into our application with frequency of 10 steps per save.
 3. The `back-play` function is added which is activated when the application is in `pause` mode and could display the history traffic condition from whenever the slide pointer designated.
+4. The `back-play` process will use the history data rather than re-calculating them.
 
 <div align="center">
   <img src="images\updata2.gif" alt="project cover" width="1500">
