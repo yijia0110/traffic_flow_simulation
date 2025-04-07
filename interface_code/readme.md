@@ -1,5 +1,7 @@
 # the interface of traffic simulation system
 
+[中文版](https://github.com/yijia0110/traffic_flow_simulation/blob/interface-branch/interface_code/readme_cn.md)
+
 The interface is about to have 3 regions: ***the traffic flow visualizer*** ,  ***the manipulation buttons*** , ***the parameter setting*** . For now (2025.03.22), the interface is partially developed as the following image
 
 <div align="center">
