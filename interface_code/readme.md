@@ -50,6 +50,6 @@ update details🚀:
 3. The `Logger` part is to save every button press or accomplished operations at the format of **time + operation content**.
 
 <div align="center">
-  <img src="images\updata3.gif" alt="project cover" width="1500">
+  <img src="images\update3.gif" alt="project cover" width="1500">
   the overall interface in the 3rd update
 </div>
