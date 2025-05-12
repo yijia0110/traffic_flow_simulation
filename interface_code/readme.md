@@ -40,3 +40,16 @@ update details🚀:
   <img src="images\updata2.gif" alt="project cover" width="1500">
   the overall interface in the 2nd update
 </div>
+
+🏆`2025.05.12` | `the 3rd update` | add the `Road slope` change trimmer for the 1st and 2nd road part; add the `Save` and `Load` button for saving / load of simulation data; add the `Logger` of whole software
+
+update details🚀: 
+
+1. The 2 trimmers `Road1 slope` and `Road2 slope` are added for custom changing of road appearance with 2 modes: 1) directly change the slope number via re-typing the number in value box; 2) slightly change the slope value by using the step-by-step increase or decrease button in the step of 1 at a press time. 
+2. The function of `Save` and `Load` button is different from the `auto-saving` function in the last update which is to save the simulation info of simulation in this time. To be specific, the `Save` button is to let the software aware which `auto-saving` data belongs to this simulation when the user would like to take a look at his historical data. The `Load` data is to load the historical data by user interface.
+3. The `Logger` part is to save every button press or accomplished operations at the format of **time + operation content**.
+
+<div align="center">
+  <img src="images\updata3.gif" alt="project cover" width="1500">
+  the overall interface in the 3rd update
+</div>
