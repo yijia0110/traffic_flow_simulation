@@ -36,3 +36,20 @@
   <img src="images\updata2.gif" alt="project cover" width="1500">
   第二次更新的整体界面效果
 </div>
+
+🏆`2025.05.12` | `第三次更新` | 增加了第一、二部分道路的‘道路坡度’变化调整器；增加了模拟数据的保存/加载‘保存’和‘加载’按钮；增加了整个软件的‘记录器’
+
+update details🚀: 
+
+1. 新增`道路1坡度`和`道路2坡度`两个微调器，用于自定义更改道路外观，并提供两种模式：1）通过在数值框中重新输入数字直接更改坡度数值；2）使用逐步增加或减少按钮，以每次按下1的步长微调坡度值。
+2. `保存`和`加载`按钮的功能与上次更新中的`自动保存`功能不同，后者用于保存本次模拟的模拟信息。具体而言，`保存`按钮用于在用户想要查看历史数据时，让软件知道哪些`自动保存`的数据属于本次模拟。`加载`按钮用于通过用户界面加载历史数据。
+3. `记录器`部分用于以 **时间 + 操作内容** 的格式保存每次按下按钮或完成的操作。
+
+1. The 2 trimmers `Road1 slope` and `Road2 slope` are added for custom changing of road appearance with 2 modes: 1) directly change the slope number via re-typing the number in value box; 2) slightly change the slope value by using the step-by-step increase or decrease button in the step of 1 at a press time. 
+2. The function of `Save` and `Load` button is different from the `auto-saving` function in the last update which is to save the simulation info of simulation in this time. To be specific, the `Save` button is to let the software aware which `auto-saving` data belongs to this simulation when the user would like to take a look at his historical data. The `Load` data is to load the historical data by user interface.
+3. The `Logger` part is to save every button press or accomplished operations at the format of **time + operation content**.
+
+<div align="center">
+  <img src="images\update3.gif" alt="project cover" width="1500">
+  第三次更新的整体界面效果
+</div>
